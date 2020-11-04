@@ -13,13 +13,13 @@ Essa aplicação permite a visualização do clima de uma cidade específica. Po
 <h3> Frontend </h3>
 
 <h1>
-<img src="./screenshots/frontend-clear.png" height="400" />
+<img src="./screenshots/frontend-clear.png" height="450" />
 </h1>
 <h1>
-<img src="./screenshots/frontend-clouds.png" height="400" />
+<img src="./screenshots/frontend-clouds.png" height="450" />
 </h1>
 <h1>
-<img src="./screenshots/frontend-rain.png" height="400" />
+<img src="./screenshots/frontend-rain.png" height="450" />
 </h1>
 
 <h3> Mobile</h3>
@@ -37,8 +37,8 @@ Essa aplicação permite a visualização do clima de uma cidade específica. Po
 
 ## Executando o Weather
 
-Para executar o backend ou frontend: npm start || yarn start
-Para executar o mobile: flutter run
+ - Para executar o backend ou frontend: npm start || yarn start
+ - Para executar o mobile: flutter run
 
 <h2 Tecnologias </h2>
 
