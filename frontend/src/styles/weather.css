@@ -1,0 +1,71 @@
+#background{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#page-weather {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  text-align: center;
+  -webkit-text-stroke-width: 0.5px; 
+  -webkit-text-stroke-color: #000;
+  text-shadow: 2px 2px #000;
+  background: rgba(0, 0, 0, 0.4)
+}
+
+#page-weather h1{
+  margin-top: 8vh;
+  font-size: 4vh;
+  text-shadow: 2px 2px #000;
+}
+
+#page-weather h2{
+  margin-top: 12vh;
+  font-size: 15vh;
+}
+
+#page-weather h3{
+  margin-top: -2.5vh;
+  font-size: 18px;
+}
+
+#page-weather .min_max{
+  margin-top: 25vh;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  text-shadow: 0px 0px;
+  border-radius: 15px;
+}
+
+#page-weather input {
+  width: 100%;
+  padding: 12px 12px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#page-weather .form-field {
+  display:flex;
+  text-align:center;
+  margin: auto;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-left: 40px;
+  margin-top: 40px;
+}
+
+#page-weather .submit {
+  display:block;
+  width: 100px;
+  text-align:center;
+  border-color: black;
+}
+
+
