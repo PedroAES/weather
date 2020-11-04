@@ -13,13 +13,13 @@ Essa aplicação permite a visualização do clima de uma cidade específica. Po
 <h3> Frontend </h3>
 
 <h1>
-<img src="./screenshots/frontend-clear.png" height="500" />
+<img src="./screenshots/frontend-clear.png" height="400" />
 </h1>
 <h1>
-<img src="./screenshots/frontend-clouds.png" height="500" />
+<img src="./screenshots/frontend-clouds.png" height="400" />
 </h1>
 <h1>
-<img src="./screenshots/frontend-rain.png" height="500" />
+<img src="./screenshots/frontend-rain.png" height="400" />
 </h1>
 
 <h3> Mobile</h3>
